@@ -1,6 +1,6 @@
 streamlit
-pandas
 numpy
+pandas
 statsmodels
 matplotlib
 altair
